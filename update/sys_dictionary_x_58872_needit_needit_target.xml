@@ -32,7 +32,7 @@
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Decimal">decimal</internal_type>
+        <internal_type display_value="10 進数">decimal</internal_type>
         <mandatory>false</mandatory>
         <max_length>20</max_length>
         <name>x_58872_needit_needit</name>
@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-09-11 03:22:11</sys_created_on>
-        <sys_id>92c3587bdb83d0104ef82bfa4b961929</sys_id>
+        <sys_id>5f80399edb3f10104ef82bfa4b9619b1</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Target</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_dictionary_x_58872_needit_needit_target</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-09-11 03:22:11</sys_updated_on>
+        <sys_updated_on>2020-10-14 01:03:10</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
